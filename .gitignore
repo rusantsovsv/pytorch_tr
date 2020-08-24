@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.png
+Files_books/
+projects/data/
+projects/model_storage
+
